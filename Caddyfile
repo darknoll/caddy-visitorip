@@ -1,0 +1,8 @@
+:12345 {
+    static_folder D:/svn
+    proxy {
+        kanban 127.0.0.1:8080
+        personmgr 127.0.0.1:8081
+    }
+    sd_hosts 127.0.0.1:1050 127.0.0.1:6053
+}
